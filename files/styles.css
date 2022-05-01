@@ -16,8 +16,11 @@ blockquote {
 }
 
 body {
-    background-color: aqua;
+    background-color:black;
+    color: white;
 }
+
+
 
 .image {
     border: chocolate;
